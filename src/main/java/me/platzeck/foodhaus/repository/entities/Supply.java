@@ -1,5 +1,6 @@
-package me.platzeck.foodhaus.entities;
+package me.platzeck.foodhaus.repository.entities;
 
+import lombok.Builder;
 import lombok.Getter;
 import lombok.Setter;
 

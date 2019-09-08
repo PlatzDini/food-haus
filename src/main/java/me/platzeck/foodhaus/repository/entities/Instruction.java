@@ -1,4 +1,4 @@
-//package me.platzeck.foodhaus.entities;
+//package me.platzeck.foodhaus.repository.entities;
 //
 //public class Instruction extends Base {
 //

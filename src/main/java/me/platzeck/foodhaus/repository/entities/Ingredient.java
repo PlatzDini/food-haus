@@ -1,4 +1,4 @@
-package me.platzeck.foodhaus.entities;
+package me.platzeck.foodhaus.repository.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
