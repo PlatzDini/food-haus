@@ -15,7 +15,9 @@
 	<description>Food Haus - organize your shelf and meals</description>
 
 	<properties>
-		<java.version>11</java.version>
+		<maven.compiler.target>1.8</maven.compiler.target>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<java.version>1.8</java.version>
 		<spring-cloud.version>Greenwich.SR2</spring-cloud.version>
 	</properties>
 
